@@ -1,5 +1,10 @@
+.link {
+	color: white;
+	text-decoration: none;
+}
+
 .card-title {
-    font-size: large;
+    font-size: 40;
     font-weight: bold;
     border-bottom: 5px;
     color:#0e8668;
@@ -78,4 +83,10 @@ body {
     color: #ffffff;
     width: 80%;
     text-align: center;
+}
+
+.minibox {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
 }
